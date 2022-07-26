@@ -24,7 +24,7 @@ int main() {
     //Criação de uma estrutura de repetição
     for(i = 1; i < num; i++){
         
-        //Soma dos termos em sequência 
+        //Soma dos termos para criação sequência 
         z = x + y;
         x = y;
         y = z;
