@@ -10,7 +10,7 @@ int main() {
     setlocale(LC_ALL, "Portuguese");
     
     //Definido variaveis
-    char string[300], aux[300];
+    char string[100], aux[100];
     int i, posVet, tamStr;
 
     //Entrada de dados
