@@ -2,8 +2,11 @@
 //jozzuhass@gmail.com
 
 #include <stdio.h>
-
+#include <locale.h>
 int main() {
+    
+    //Definindo acentuação
+    setlocale(LC_ALL, "Portuguese");
     
     //Determinando variáveis
     int x, y, z, i, num, numPer;
