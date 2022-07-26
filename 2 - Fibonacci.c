@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <locale.h>
+
 int main() {
     
     //Definindo acentuação
