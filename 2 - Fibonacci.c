@@ -21,7 +21,7 @@ int main() {
     scanf("%d", &num);
     printf("%d\n", y);
 
-    //Criação de uma estrutura de repetição
+    //Criação de uma estrutura de repetição para percorrer a string
     for(i = 1; i < num; i++){
         
         //Soma dos termos para criação sequência 
