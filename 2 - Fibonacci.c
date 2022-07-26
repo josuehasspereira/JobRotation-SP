@@ -16,9 +16,11 @@ int main() {
     y = 1;
     
     //Entrada dos dados
-    printf("\n---Série de Fibonacci---\n\n");
+    printf("\n---Sequência de Fibonacci---\n\n");
     printf("Digite um número (inteiro) de termos: ");
     scanf("%d", &num);
+    
+    //Primeiro termo
     printf("%d\n", y);
 
     //Criação de uma estrutura de repetição para percorrer a string
