@@ -3,11 +3,16 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <locale.h>
 #define MAX 1000
 
-int main() {
 
-	//Abrindo o arquivo dados.json e definindo uma string
+int main() {
+	
+    //Definindo acentuação
+    setlocale(LC_ALL, "Portuguese");
+
+    //Abrindo o arquivo dados.json e definindo uma string
     FILE* f = fopen("dados.json","r");
     
 	//Definindo variaveis
