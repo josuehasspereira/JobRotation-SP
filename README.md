@@ -5,10 +5,10 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Exercico 2`: Programa para retornar a sequência de Fibonacci conforme o numero de termos digitado na entrada, e se o numero digitado pertencer sequÊncia, retornar o mesmo
+- `Exercício 2`: Programa para retornar a sequência de Fibonacci conforme o numero de termos digitado na entrada, e se o numero digitado pertencer sequÊncia, retornar o mesmo
 - `Exercício 3`: Feito para retornar o maior e menor valor dos dias faturados de uma Distribuidora x, além também dos dias acima da média dos valores dos dias faturados (valores maiores que 0), a entrada de dados foi feita automática utilizando o dados.json.
-- `Funcionalidade 4`: A entrada de dados foi feita de forma automática através de um vetor, o programa retorna a procentagem dos dados dos valores em relação ao seu total somado
-- `Funcionalidade 3`:A entrada de dados é feita pela usuário, ao digitar qualquer palavra, o programa retorna a escrita inversa (obs: palavras de até 100 caracteres)
+- `Exercício 4`: A entrada de dados foi feita de forma automática através de um vetor, o programa retorna a procentagem dos dados dos valores em relação ao seu total somado
+- `Exercício 5`:A entrada de dados é feita pela usuário, ao digitar qualquer palavra, o programa retorna a escrita inversa (obs: palavras de até 100 caracteres)
 - 
 ## ✔️ Programa e tecnologias utilizadas
 
