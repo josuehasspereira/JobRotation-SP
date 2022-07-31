@@ -1,5 +1,5 @@
 //Desenvolvido por Josué Hass Pereira, 2022
-//jozzuhass@gmail.com
+//josue.hass@hotmail.com
 
 #include <stdio.h>
 #include <locale.h>
